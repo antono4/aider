@@ -1,2 +1,31 @@
-Last updated: 2026-09-08 11:58:08 WIB
-Last updated: 2026-09-08 12:04:16 WIB
+# aider
+
+
+
+## 📋 Overview
+
+This repository contains **690 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-08 12:09:26 WIB*
